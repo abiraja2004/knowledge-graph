@@ -1,0 +1,12 @@
+/data/glove.6B
+/data/glove.6B.zip
+/data/vocabulary-embedding.data.pkl
+/data/vocabulary-embedding.pkl
+/data/articles.csv
+/data
+/models/model.bin
+/models/model.vec
+/models
+/fastText
+/How_to_make_a_text_summarizer
+/neo4j

@@ -1,0 +1,13 @@
+MATCH p=(node)-->(node2)
+WHERE node:PERSON
+AND node2:DOCUMENT
+RETURN p LIMIT 25
+
+
+
+
+ps -ef | grep neo
+sudo kill -9 1635
+
+
+lspci
